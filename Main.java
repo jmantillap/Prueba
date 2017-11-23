@@ -5,7 +5,5 @@ public class Main{
 		bd.conectar();
 		Mensaje obj=new Mensaje();
 		System.out.println(obj.getMensaje);
-
-
 	}
 }
