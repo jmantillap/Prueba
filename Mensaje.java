@@ -1,6 +1,7 @@
 public class Mensaje{
 
 	public String getMensaje(){
-		return "Hola Mundo desde mensaje";
+		String mensaje="Hola Mundo desde mensaje";
+		return mensaje;
 	}
 }
