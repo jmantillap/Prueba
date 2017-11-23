@@ -3,5 +3,9 @@ public class Main{
 		System.out.println("Hola Mundo");
 		Bd bd=new Bd();
 		bd.conectar();
+		Mensaje obj=new Mensaje();
+		System.out.println(obj.getMensaje);
+
+
 	}
 }
